@@ -1,0 +1,14 @@
+{
+  "name": "firefox-immersion",
+  "version": "0.1.0",
+  "repository": "git@github.com:zirmax/firefox-immersion.git",
+  "author": "Maximilian Zirps <29249513+zirmax@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  },
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
